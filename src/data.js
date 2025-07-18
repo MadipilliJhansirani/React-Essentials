@@ -24,7 +24,6 @@ export const CORE_CONCEPTS = [
     description: "Manage dyanamic data",
   },
 ];
-
 export const EXAMPLES = {
   components: {
     title: "Components",
